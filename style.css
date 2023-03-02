@@ -1,0 +1,21 @@
+.q{
+    margin-left: 200px;
+    width: 70vw;
+    /* border: 30px solid transparent; */
+    background-color: rgb(151, 142, 142);
+    color: white;
+    font-size: 30px;
+    border-radius: 25px;
+    padding: 10px;
+    /* text-align: center; */
+}
+h3{
+    color: rgb(54, 6, 177);
+    text-shadow: opx opx 30px rgb(20, 3, 3);
+
+}
+body{
+    background-color: rgb(240, 187, 123);
+    padding: 30px;
+    
+}
